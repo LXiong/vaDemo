@@ -1,4 +1,4 @@
-package io.virtualapp;
+package io.vademo;
 
 import android.content.Context;
 import android.content.SharedPreferences;

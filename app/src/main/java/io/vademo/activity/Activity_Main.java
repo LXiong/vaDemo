@@ -1,4 +1,4 @@
-package io.virtualapp.activity;
+package io.vademo.activity;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -18,7 +18,7 @@ import com.lody.virtual.remote.InstallResult;
 
 import java.io.IOException;
 
-import io.virtualapp.R;
+import io.vademo.R;
 
 public class Activity_Main extends Activity { //717219917@qq.com
      EditText path,pkgName;
